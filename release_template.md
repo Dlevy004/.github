@@ -1,6 +1,6 @@
 ## 🚀 Release Summary
 
-## Admin Panel
+## Admin Page
 ### Frontend
 - TODO: New UI components, views, PWA changes.
 ### Backend
