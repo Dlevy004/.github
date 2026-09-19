@@ -43,6 +43,15 @@ TODO: Brief, high-level summary of what this release is about.
 
 ---
 
+<details>
+<summary>🔗 Associated Pull Requests</summary>
+
+TODO: Add related pull requests to this section.
+
+</details>
+
+---
+
 ## 🛑 Pre-Deploy Checklist
 > *Delete this section before publishing the release.*
 
