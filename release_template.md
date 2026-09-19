@@ -4,7 +4,7 @@ TODO: Brief, high-level summary of what this release is about.
 ---
 
 ## 📋 Changelog
-> *Copy this section directly into the CHANGELOG.md file.*
+> *Copy this section directly into the CHANGELOG.md file, then delete this section.*
 
 ### Added
 - TODO: Describe new features, pages, or components added in this release.
@@ -27,7 +27,7 @@ TODO: Brief, high-level summary of what this release is about.
 ---
 
 ## ⚙️ Developer Notes
-> *Technical details for developers. DO NOT COPY this to the public changelog.*
+> *Technical details for developers. DO NOT COPY this to the public changelog. Delete this section before publishing the release.*
 
 ### Frontend
 - TODO: Design updates, dependency updates, responsive view fixes, new UI components, views, PWA changes.
