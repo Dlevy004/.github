@@ -58,5 +58,5 @@ TODO: Add related pull requests to this section.
 - [ ] Version number updated in `package.json` (and in all relevant workspaces/apps/components).
 - [ ] **Docs**: CHANGELOG.md updated with the new version info.
 - [ ] **Environment**: All new Environment Variables are set on the hosting platform.
-- [ ] **Docs**: `.env.example` updated if new variables were added.
+- [ ] **Docs**: `.env.example` and `README.md` updated if new variables were added
 - [ ] **Testing**: Local tests passed 100%.
