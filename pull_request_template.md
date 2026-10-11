@@ -11,5 +11,5 @@ TODO: Explain briefly why this pull request is necessary. What problem does it s
 > *Delete this section before merging/closing the pull request.*
 
 - [ ] **Environment**: All new Environment Variables are set on the hosting platform.
-- [ ] **Docs**: `.env.example` updated if new variables were added.
+- [ ] **Docs**: `.env.example` and `README.md` updated if new variables were added
 - [ ] **Tests**: Local tests passed 100%.
