@@ -7,10 +7,9 @@ TODO: Explain briefly why this pull request is necessary. What problem does it s
 ## Testing:
 - TODO: Describe the steps you took to verify that your code works correctly (manual checks, unit tests).
 
-## 🛑 Pre-Deploy Checklist
+## 🛑 Pre-Merge Checklist
 > *Delete this section before merging/closing the pull request.*
 
-- [ ] Version number updated in `package.json` (and in all relevant workspaces/apps/components).
-- [ ] CHANGELOG.md updated with the new version info.
-- [ ] All new Environment Variables are set on the hosting platform.
-- [ ] Local tests passed 100%.
+- [ ] **Environment**: All new Environment Variables are set on the hosting platform.
+- [ ] **Docs**: `.env.example` updated if new variables were added.
+- [ ] **Tests**: Local tests passed 100%.
