@@ -56,6 +56,7 @@ TODO: Add related pull requests to this section.
 > *Delete this section before publishing the release.*
 
 - [ ] Version number updated in `package.json` (and in all relevant workspaces/apps/components).
-- [ ] CHANGELOG.md updated with the new version info.
-- [ ] All new Environment Variables are set on the hosting platform.
-- [ ] Local tests passed 100%.
+- [ ] **Docs**: CHANGELOG.md updated with the new version info.
+- [ ] **Environment**: All new Environment Variables are set on the hosting platform.
+- [ ] **Docs**: `.env.example` updated if new variables were added.
+- [ ] **Testing**: Local tests passed 100%.
